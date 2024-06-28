@@ -7,4 +7,4 @@ country = "Georgia"
 
 print(name, surname, age, hobby, country)
 
-print(name + " " + age)
+
